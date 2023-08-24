@@ -2,7 +2,7 @@
 1. Open the `index.html` file in your preferred web browser to view the animated login page or you can follow the link below that should openin the GitHub Pages hosted link.
 
 ## Preview
-![Animated Login Page](https://walimuhammadahmad.github.io/Login-Page/)
+<a href="https://walimuhammadahmad.github.io/Login-Page/">Animation Sign-in Page</a>
 
 ## Contributing
 Contributions are welcome! Whether you want to enhance a feature or suggest improvements, please feel free to submit a pull request.
